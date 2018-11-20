@@ -1,4 +1,5 @@
 # 2048
 verson 1.0
 ---
-![][gif]
+
+![img](gif.gif)
